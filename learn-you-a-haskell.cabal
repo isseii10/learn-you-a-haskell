@@ -24,8 +24,6 @@ source-repository head
   location: https://github.com/isseii10/learn-you-a-haskell
 
 library
-  exposed-modules:
-      Lib
   other-modules:
       Paths_learn_you_a_haskell
   autogen-modules:
